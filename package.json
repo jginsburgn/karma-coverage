@@ -1,5 +1,5 @@
 {
-  "name": "karma-coverage",
+  "name": "@jginsburgn/karma-coverage",
   "version": "2.0.1",
   "description": "A Karma plugin. Generate code coverage.",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-coverage.git"
+    "url": "git://github.com/jginsburgn/karma-coverage.git"
   },
   "keywords": [
     "karma-plugin",
